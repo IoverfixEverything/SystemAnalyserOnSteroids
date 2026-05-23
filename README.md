@@ -1,5 +1,7 @@
 # SystemAnalyserOnSteroids
 Creating a system diagnose that is meant to be uploadet to AI, to fix Problems or Optimize your PC.
+ 
+You can youse or edit the provided prompt txt file, to let AI do a generic low risk gaming optimization for your pc.
 
 
 Windows 11 Gaming Full Diagnostics
