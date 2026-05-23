@@ -1,7 +1,9 @@
 # SystemAnalyserOnSteroids
 Creating a system diagnose that is meant to be uploadet to AI, to fix Problems or Optimize your PC.
- 
-You can youse or edit the provided prompt txt file, to let AI do a generic low risk gaming optimization for your pc.
+
+If you don´t want to solve a specific problem but to optimize your system, i strongly advice to tell your AI to ignore everything that is more than 3 days old.
+You can use or edit the provided prompt txt file, to let AI do a generic low risk gaming optimization for your pc.
+Personal favourite AI to use for this is Claude Thinking, generally you should at least use a thinking model. Maybe even cross check the results with 2 individual AI´s.
 
 
 Windows 11 Gaming Full Diagnostics
